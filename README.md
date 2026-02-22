@@ -1,2 +1,2 @@
 # 2026jai
-contains code i did in 2026
+contains code i do in 2026
